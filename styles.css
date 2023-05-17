@@ -1,0 +1,25 @@
+#grid {
+    width: 200px;
+    height: 300px;
+    display: flex;
+    flex-flow: row wrap;
+}
+#grid img {
+    max-height: 150px;
+    max-width: 50px;
+}
+
+body {
+    background-color:lightgoldenrodyellow;
+    color: rgb(235, 60, 11);
+    font-family: cursive;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+h3 {
+    font-size: x-large;
+    text-decoration: underline;
+}
